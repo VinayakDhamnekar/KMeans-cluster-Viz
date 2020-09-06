@@ -1,2 +1,2 @@
 # KMeans-cluster-Viz
-Vizualization of Kmeans Cluster using Matplotlib.
+Visualization of Kmeans Cluster using Matplotlib.
